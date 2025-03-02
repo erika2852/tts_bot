@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 
@@ -368,3 +369,6 @@ Thankful to @Naozumi520 for providing the Cantonese training set and for the gui
 <a href="https://github.com/RVC-Boss/GPT-SoVITS/graphs/contributors" target="_blank">
   <img src="https://contrib.rocks/image?repo=RVC-Boss/GPT-SoVITS" />
 </a>
+=======
+# tts_bot
+>>>>>>> b1d74196502a2174ff2dcf9a81c4a48d423dc4cc
